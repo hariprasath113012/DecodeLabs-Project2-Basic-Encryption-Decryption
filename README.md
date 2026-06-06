@@ -47,8 +47,10 @@ python encryption_decryption.py
 # Example 1
 
 <img width="1920" height="1080" alt="output1" src="https://github.com/user-attachments/assets/4fc53648-e3cb-4743-afb7-8fb8be59038e" />
+
 # Example 2
 <img width="1920" height="1080" alt="output2" src="https://github.com/user-attachments/assets/55454138-48ab-4e3a-aa81-b2c8ba5b2a2a" />
+
 # Example 3
 <img width="1920" height="1080" alt="output3" src="https://github.com/user-attachments/assets/4336505c-b830-44c2-b4fa-7862ee1e9754" />
 
